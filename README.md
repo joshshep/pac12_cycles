@@ -22,4 +22,5 @@ pac12's largest circle of suck (len=12): ['UCLA', 'USC', 'Oregon State', 'Colora
 ### TODO
 * parse and run https://www.masseyratings.com/scores.php?s=286577&sub=11590&all=1&mode=2&format=0
 
+### Inspired by:
 ![PAC12 simple cycle](pac12_simple_cycle.jpg)
