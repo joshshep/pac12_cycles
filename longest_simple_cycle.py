@@ -2,7 +2,6 @@
 
 from pprint import pprint
 
-#from tarjan import tarjan
 import networkx as nx
 
 EDGE_LIST_IFNAME = 'pac12_edge_list.csv'
